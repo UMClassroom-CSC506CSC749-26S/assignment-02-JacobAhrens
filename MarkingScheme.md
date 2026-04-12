@@ -5,7 +5,7 @@
 <TR> <TD WIDTH=30%> Student:
      <TD WIDTH=10%> &nbsp;
      <TD WIDTH=30%> Mark:
-     <TD WIDTH=10%> /20
+     <TD WIDTH=10%> 19.25/20
 
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> Types - 3
@@ -41,11 +41,11 @@
      <TD WIDTH=40%> 
      <TD WIDTH=10%> 
 <TR> <TD WIDTH=40%> Eater or eaten
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.25/0.5]
      <TD WIDTH=40%> 
      <TD WIDTH=10%> 
 <TR> <TD WIDTH=40%> Primary producer
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.375/0.5]
      <TD WIDTH=40%> Primary producer not eater
      <TD WIDTH=10%> [0.5]
 <TR> <TD WIDTH=40%> 
@@ -67,11 +67,11 @@
 <TR> <TD WIDTH=40%> 
      <TD WIDTH=10%> 
      <TD WIDTH=40%> Non-apex predator eaten
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.375/0.5]
 <TR> <TD WIDTH=40%> 
      <TD WIDTH=10%> 
      <TD WIDTH=40%> Non-primary producers eat
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.375/0.5]
 <TR> <TD WIDTH=40%> Foodchain
      <TD WIDTH=10%> [1.5]
      <TD WIDTH=40%> 
@@ -95,7 +95,7 @@
 <TR> <TD WIDTH=40%> Depends
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> Non-apex predator
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.375/0.5]
 <TR> <TD WIDTH=40%>
      <TD WIDTH=10%> 
      <TD WIDTH=40%> Apex predator depends
